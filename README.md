@@ -18,6 +18,8 @@ Here are my pet projects on Java, C and C++. However, Java is my primary languag
 ![image](https://github.com/user-attachments/assets/2f6c1974-6574-438d-8e7d-6af08cd3ed00)
 ![image](https://github.com/user-attachments/assets/7eaa8151-5dab-4471-a5f1-a85e11f669a7)
 
+
+
 ### Animals
 
 ![image](https://github.com/user-attachments/assets/5ebb935b-8d34-409e-8fb0-f9e9ad542196)
@@ -26,3 +28,7 @@ Here are my pet projects on Java, C and C++. However, Java is my primary languag
 ![image](https://github.com/user-attachments/assets/182c4fce-7bd5-49b2-b097-b297e690ed65)
 ![image](https://github.com/user-attachments/assets/30a7bcee-826f-42b8-b16d-c1fb214cc2cb)
 ![image](https://github.com/user-attachments/assets/e63755e3-5757-4103-8338-aeff11533a40)
+
+
+
+### Smart
