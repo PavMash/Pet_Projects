@@ -57,3 +57,13 @@ Here are my pet projects on Java, C and C++. However, Java is my primary languag
 ![image](https://github.com/user-attachments/assets/e4780115-0124-454d-9905-4cd93a7f0cfe)
 ![image](https://github.com/user-attachments/assets/65f3f32c-b73a-447b-80c9-7d77bfb5a2eb)
 ![image](https://github.com/user-attachments/assets/b9cb0474-5d16-494b-b465-aa62ca2ddb64)
+
+
+
+### Moodle Replacement
+
+![image](https://github.com/user-attachments/assets/3792cc11-374f-4db9-ae84-191ac263f191)
+![image](https://github.com/user-attachments/assets/02e01695-9ff4-4d46-b3a9-a61bef4eb014)
+![image](https://github.com/user-attachments/assets/1f4f927d-6fc9-46a0-9752-138b0e06fcbd)
+![image](https://github.com/user-attachments/assets/28d5ec4e-08ff-482c-9046-6f68b39c73d6)
+![image](https://github.com/user-attachments/assets/79f14fd6-8b11-4c30-9685-99c3ed882f7f)
