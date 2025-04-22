@@ -31,4 +31,12 @@ Here are my pet projects on Java, C and C++. However, Java is my primary languag
 
 
 
-### Smart
+### Smart Home Management System
+
+![image](https://github.com/user-attachments/assets/0c2e80c0-890c-46c8-8644-615baeab274e)
+![image](https://github.com/user-attachments/assets/dc51c906-92f6-4322-a670-63da2f9c5f86)
+![image](https://github.com/user-attachments/assets/32297b96-8cd1-4b0d-9b15-b63f1708cbe4)
+![image](https://github.com/user-attachments/assets/ebdbba32-e7ac-4a0f-8fd5-277187c26870)
+![image](https://github.com/user-attachments/assets/020ecfbd-47d9-4cf3-93de-2db9e90d03a9)
+![image](https://github.com/user-attachments/assets/01c43787-a053-4f70-bfc1-afa08db31648)
+
