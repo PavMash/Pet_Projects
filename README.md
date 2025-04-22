@@ -39,4 +39,21 @@ Here are my pet projects on Java, C and C++. However, Java is my primary languag
 ![image](https://github.com/user-attachments/assets/ebdbba32-e7ac-4a0f-8fd5-277187c26870)
 ![image](https://github.com/user-attachments/assets/020ecfbd-47d9-4cf3-93de-2db9e90d03a9)
 ![image](https://github.com/user-attachments/assets/01c43787-a053-4f70-bfc1-afa08db31648)
+![image](https://github.com/user-attachments/assets/9be43069-6350-4bed-b4b1-949d94ed63e8)
+![image](https://github.com/user-attachments/assets/8e869c8b-da3b-46cd-8488-d8f0b5517864)
+![image](https://github.com/user-attachments/assets/c178802f-1576-4f82-84f7-a40e7b2dea97)
+![image](https://github.com/user-attachments/assets/6acb8acf-9f25-4372-806e-b33dafc72d75)
+![image](https://github.com/user-attachments/assets/7b81f6af-8cb9-4c41-85e2-6e52c68ca28d)
+![image](https://github.com/user-attachments/assets/1ecac635-90bf-4543-ba52-d614052a9948)
 
+
+
+### Substance
+
+![image](https://github.com/user-attachments/assets/42966102-9184-45bf-851f-58ce7987e9a6)
+![image](https://github.com/user-attachments/assets/36a02ee6-5b53-4a40-b653-5956377e4130)
+![image](https://github.com/user-attachments/assets/db2277c1-8ecc-4b99-8a4a-2f3550516016)
+![image](https://github.com/user-attachments/assets/e4641e02-0cfb-4180-aa0a-b41b5ad7377f)
+![image](https://github.com/user-attachments/assets/e4780115-0124-454d-9905-4cd93a7f0cfe)
+![image](https://github.com/user-attachments/assets/65f3f32c-b73a-447b-80c9-7d77bfb5a2eb)
+![image](https://github.com/user-attachments/assets/b9cb0474-5d16-494b-b465-aa62ca2ddb64)
